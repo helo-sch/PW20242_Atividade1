@@ -1,0 +1,4 @@
+Nome: Marcos Medeiros teste
+Descrição: dasda
+Estoque: 1
+Preço: 1
