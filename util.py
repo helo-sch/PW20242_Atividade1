@@ -28,3 +28,7 @@ def salvar_cadastro(nome, descricao, estoque, preco, categoria):
 
 def obter_conexao():
     return sqlite3.connect("dados.db")
+
+ 
+def obter_conexao(): 
+    return sqlite3.connect("dados.db")
